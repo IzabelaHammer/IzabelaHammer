@@ -21,3 +21,12 @@
 <a href="https://linkedin.com/in/izabela-hammerschlag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izabela hammerschlag" height="30" width="40" /></a>
 </p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IzabelaHammer)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaHammer)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IzabelaHammer&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IzabelaHammer)  
+
+![Profile views](https://gpvc.arturio.dev/IzabelaHammer)  
