@@ -26,4 +26,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IzabelaHammer&show_icons=true)  
 
-![Snake animation](https://github.com/IzabelaHammer/IzabelaHammer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/IzabelaHammer/IzabelaHammer/blob/output/github-contribution-grid-snake.gif)
