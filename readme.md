@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Izabela Hammerschlag</h1>
 <h3 align="center">Uma Cientista de dados e mestre em física nuclear aplicada. Apaixonada por ciência, matemática e tecnologia.</h3>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 - 🔭 Atualmente estou procurando emprego na **área de ciência de dados**
 
 - 🌱Atualmente estou aprendendo e revisando **novas ferramentas, bibliotecas e linguagens de programação.**
@@ -28,7 +28,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaHammer)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IzabelaHammer&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IzabelaHammer)  
-
-![Profile views](https://gpvc.arturio.dev/IzabelaHammer)  
