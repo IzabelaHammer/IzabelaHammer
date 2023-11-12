@@ -9,6 +9,8 @@
 
 - 👨‍💻 Alguns dos projetos na área estão em [https://github.com/IzabelaHammer/projetos_tripleten](https://github.com/IzabelaHammer/projetos_tripleten)
 
+- 📝 Artigos científicos: [https://scholar.google.com.br/citations?user=V0aRzdUAAAAJ&hl=pt-BR](https://scholar.google.com.br/citations?user=V0aRzdUAAAAJ&hl=pt-BR)
+
 - 📫 e-mail: **izabelahammer@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
